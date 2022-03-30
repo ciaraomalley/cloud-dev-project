@@ -1,0 +1,8 @@
+en:
+  application:
+    name: Cloud Dev Project
+    owner: Unidentified Developer
+    description: "You can update this description in `config/locales/en/application.en.yml`."
+    keywords: cloud dev project seo keywords
+    support_email: change.me@localhost
+    key: cloud_dev_project
